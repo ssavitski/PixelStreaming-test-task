@@ -33,4 +33,4 @@ Install your package.json
 npm run dev
 Runs the app in the development mode.
 
-[applicationWork.webm](frontend%2Fsrc%2Fassets%2Fvideo%2FapplicationWork.webm)
+<video src="./frontend/src/assets/video/applicationWork.webm" controls></video>
